@@ -20,4 +20,8 @@ This repository hosts a variety of algorithms, categorized for easy navigation. 
 
 ## Soon-to-be Table of Contents
 
+## How to contribute to this repository?
+
+soon-to-be
+
 Created on 19th April 2024.

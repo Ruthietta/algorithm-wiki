@@ -10,7 +10,7 @@ It's just a personal project for my own growth, but please feel free to correct 
 
 ## Overview
 
-This repository hosts a variety of algorithms, categorized for easy navigation. Whether you're interested in sorting, searching, graph algorithms, or more, you'll find comprehensive resources here. 
+This repository hosts a variety of algorithms, categorized for easy navigation. Whether you're interested in sorting, searching, graph algorithms, or more, you'll find comprehensive resources here. Feel free to contribute to this repository. Check Example directory for more information about adding code.
 
 ## Features
 

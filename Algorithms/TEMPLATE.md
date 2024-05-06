@@ -12,10 +12,3 @@
 ## Algorithm
 
 [Explain the algorithm in detail, including pseudocode or code snippets if necessary. Use clear and concise language to describe the steps involved.]
-
-## Implementation
-
-### [Programming Language 1]
-
-```[Language-specific code block]
-// Insert code implementation here

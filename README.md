@@ -6,7 +6,7 @@
 Welcome to the Algorithm Encyclopedia! 
 It's just a personal project for my own growth, but please feel free to correct my mistakes :) Nobody's perfect!
 
-## Updates: none
+## Updates: 18/05 - added linear and binary search algorithms
 
 ## Overview
 

@@ -1,6 +1,6 @@
 # Ternary Search
 - **Last Updated:** 2024-05-23
-- **Programming Languages:** Python, etc.
+- **Programming Languages:** Python
 - **Complexity:** O(log3 n) (time), O(1) (space)
 - **Requires:** A sorted array
 

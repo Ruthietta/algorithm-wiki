@@ -1,6 +1,6 @@
 # Algorithm Name
 
-- **Last Updated:** [Date]
+- **Last Updated:** `![GitHub last commit](https://img.shields.io/github/last-commit/Ruthietta/algorithm-wiki/INSERT HERE DIRECTORY/?style=flat)`
 - **Programming Languages:** [List of programming languages]
 - **Complexity:** [Time complexity, space complexity]
 - **Requires:** [Any prerequisites or dependencies]

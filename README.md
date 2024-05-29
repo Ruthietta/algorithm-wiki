@@ -1,12 +1,11 @@
 # Algorithm Wiki
 
 ![Algorithms](https://img.shields.io/badge/Algorithms-Wikipedia-blue)
+![GitHub last commit](https://img.shields.io/github/last-commit/Ruthietta/algorithm-wiki)
 ![Languages](https://img.shields.io/badge/Languages-C++%20|%20Python%20|%20C%23%20|%20Java-green)
 
 Welcome to the Algorithm Encyclopedia! 
 It's just a personal project for my own growth, but please feel free to correct my mistakes :) Nobody's perfect!
-
-## Updates: 29/05 - added most of search algorithms
 
 ## Overview
 

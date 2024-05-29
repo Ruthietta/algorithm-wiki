@@ -1,7 +1,7 @@
 # Binary Search
 
 - **Last Updated:** 2024-04-25
-- **Programming Languages:** 
+- **Programming Languages:** Python
 - **Complexity:** O(log n) (time), O(1) (space)
 - **Requires:** A sorted array
 

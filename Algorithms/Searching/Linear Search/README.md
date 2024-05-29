@@ -1,7 +1,7 @@
 # Linear Search
 
 - **Last Updated:** 2024-05-18
-- **Programming Languages:** Python, etc.
+- **Programming Languages:** Python
 - **Complexity:** O(n) (time), O(1) (space)
 - **Requires:** None
 

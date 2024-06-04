@@ -1,4 +1,5 @@
 <div align="center">
+<a name="readme-top"></a>
 
   ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/Ruthietta/algorithm-wiki?style=for-the-badge&color=216ed6&label=Total%20commits)
   ![GitHub last commit](https://img.shields.io/github/last-commit/Ruthietta/algorithm-wiki?style=for-the-badge&color=216ed6&label=Last%20update)
@@ -23,18 +24,35 @@
 
 <br />
 
-## Features
+## About the project
 
+After taking my algorithm uni class I started to take interest in that topic. While studying I got into some issues, which I would like to sort out with this repository:
+ * trouble in finding usage for those algorithms in practice,
+ * difficulty in understanding more complex algorithms,
+ * wasting time on searching or asking ChatGPT to find best ways to implement algorithms.
+
+And those issues I'd like to get resolved by features below.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+## Features
 - Code implementations in C++, Python, C#, and Java. <i> (in progress) </i>
 - Visualizations for better understanding. <i> (soon-to-be) </i>
-- Regular updates and contributions from the community.
-  
+- Regular updates and contributions from the community. <i> (i'm waiting for you!) </i>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 <br /><br />
 
 ## Contributors
 
 <div align="center">
   Waiting for you :)
+
+  <sub>Special thanks to <a href="https://github.com/othneildrew/Best-README-Template">@othneildrew</a> for a helpful readme template!</sub>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
 
   <br /><br /><br /><br />
 

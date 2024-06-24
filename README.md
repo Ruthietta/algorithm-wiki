@@ -32,9 +32,9 @@ After taking my algorithm uni class I started to take interest in that topic. Wh
  * wasting time on searching or asking ChatGPT to find best ways to implement algorithms.
 
 And those issues I'd like to get resolved by features below.
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
+<br /><br />
 
 ## Features
 - Code implementations in C++, Python, C#, and Java. <i> (in progress) </i>
@@ -45,17 +45,31 @@ And those issues I'd like to get resolved by features below.
 <br /><br />
 
 ## Contributors
-
 <div align="center">
   Waiting for you :)
 
-  <sub>Special thanks to <a href="https://github.com/othneildrew/Best-README-Template">@othneildrew</a> for a helpful readme template!</sub>
+  <sub>Special thanks to <a href="https://github.com/othneildrew/Best-README-Template">@othneildrew</a> for a helpful readme template!</sub></div>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+  <br /><br />
 
+## How to contribute?
+I'm not able to work on this repository daily, so I would be grateful for anything. Any contributions you make are **greatly appreciated**.
 
-  <br /><br /><br /><br />
+If you have a suggestion that could be a new value added to this project mention it in an issue.
+Don't forget to give the project a star! Thanks again!
 
-  ![Created by Ruthietta](https://img.shields.io/badge/Created%20by%20Ruthietta-April%202024-216ed6?style=for-the-badge)
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<br /><br />
+<div align="center">
+  <img src="https://img.shields.io/badge/Created%20by%20Ruthietta-April%202024-216ed6?style=for-the-badge" />
+</div>
 
 </div>

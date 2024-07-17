@@ -4,6 +4,7 @@
   ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/Ruthietta/algorithm-wiki?style=for-the-badge&color=216ed6&label=Total%20commits)
   ![GitHub last commit](https://img.shields.io/github/last-commit/Ruthietta/algorithm-wiki?style=for-the-badge&color=216ed6&label=Last%20update)
   ![Languages](https://img.shields.io/badge/Languages-C++%20|%20Python%20|%20C%23%20|%20Java-green?style=for-the-badge&color=216ed6&label=Used%20languages)
+  ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FRuthietta%2Falgorithm-wiki&countColor=%23216ed6)
 
   <br />
 

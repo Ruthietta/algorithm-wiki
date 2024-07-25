@@ -28,3 +28,15 @@ The Depth First Search algorithm works as follows:
 
 4. **Termination:**
     - The algorithm ends when all nodes reachable from the initial node have been visited.
+
+## BFS vs. DFS algorithms
+
+| **Aspect**                | **DFS (Depth First Search)**                                    | **BFS (Breadth First Search)**                                      |
+|---------------------------|------------------------------------------------------------------|---------------------------------------------------------------------|
+| **Traversal Strategy**    | Explores as far as possible along each branch before backtracking | Explores all neighbors at the present depth level before moving on to nodes at the next depth level |
+| **Data Structure**        | Stack (either implicitly via recursion or explicitly)            | Queue                                                               |
+| **Traversal**             | Prioritizes visiting child nodes of the current node before siblings | Prioritizes visiting all neighbors of the current node before moving on to their children            |
+| **Use Cases**             | Detecting cycles, solving puzzles with a single solution, topological sorting, pathfinding in trees | Finding the shortest path in unweighted graphs, level-order traversal in trees, peer-to-peer networks |
+| **Characteristics**       | Can be implemented using recursion, uses less memory in dense graphs | Guarantees shortest path in an unweighted graph, may use more memory in wide or dense graphs          |
+| **Time Complexity**       | O(V + E)                                                         | O(V + E)                                                            |
+| **Space Complexity**      | O(V)                                                             | O(V)                                                                |

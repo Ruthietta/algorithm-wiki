@@ -22,8 +22,9 @@ Get to know all of the algorithms better!
 1. [About the Project](#about-the-project)
 2. [Features](#features)
 3. [How to Contribute](#how-to-contribute)
-4. [License](#license)
-5. [Contributors](#contributors)
+4. [Milestones](#milestones)
+5. [License](#license)
+6. [Contributors](#contributors)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -65,6 +66,15 @@ Your contributions are greatly appreciated! Here’s how you can help:
 5. Open a pull request.
 
 Have an idea for a new feature? Create an issue and let’s discuss it. Don’t forget to give the project a star—thank you!
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+---
+
+## Milestones
+
+- **April 2024**: Project was created after completing an algorithm course, driven by the need for better understanding and practical use of algorithms.
+- **December 2024**: Enhanced the project with clear guidelines and streamlined the process for easy contribution, including adding a detailed README file.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

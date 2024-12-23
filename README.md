@@ -6,71 +6,90 @@
   ![Languages](https://img.shields.io/badge/Languages-C++%20|%20Python%20|%20C%23%20|%20Java-green?style=for-the-badge&color=216ed6&label=Used%20languages)
   ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FRuthietta%2Falgorithm-wiki&countColor=%23216ed6)
 
-  <br />
-
-  <img src="https://i.ibb.co/cF0gt2t/neural.png" align="center" width="100px" />
-
-  ### Algorithm Wiki
-
-  Get to know all of the algorithms better!
-
-</div>
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    Soon-to-be!
-  </ol>
-</details>
-
-
 <br />
 
-## About the project
+<img src="https://i.ibb.co/cF0gt2t/neural.png" align="center" width="100px" />
 
-After taking my algorithm uni class I started to take interest in that topic. While studying I got into some issues, which I would like to sort out with this repository:
- * trouble in finding usage for those algorithms in practice,
- * difficulty in understanding more complex algorithms,
- * wasting time on searching or asking ChatGPT to find best ways to implement algorithms.
+### Algorithm Wiki
 
-And those issues I'd like to get resolved by features below.
+Get to know all of the algorithms better!
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-<br /><br />
-
-## Features
-- Code implementations in C++, Python, C#, and Java. <i> (in progress) </i>
-- Visualizations for better understanding. <i> (soon-to-be) </i>
-- Regular updates and contributions from the community. <i> (i'm waiting for you!) </i>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-<br /><br />
-
-## Contributors
-<div align="center">
-  Waiting for you :)
-
-  <sub>Special thanks to <a href="https://github.com/othneildrew/Best-README-Template">@othneildrew</a> for a helpful readme template!</sub></div>
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-  <br /><br />
-
-## How to contribute?
-I'm not able to work on this repository daily, so I would be grateful for anything. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that could be a new value added to this project mention it in an issue.
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<br /><br />
-<div align="center">
-  <img src="https://img.shields.io/badge/Created%20by%20Ruthietta-April%202024-216ed6?style=for-the-badge" />
 </div>
 
+---
+
+## Table of Contents
+1. [About the Project](#about-the-project)
+2. [Features](#features)
+3. [How to Contribute](#how-to-contribute)
+4. [License](#license)
+5. [Contributors](#contributors)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+---
+
+## About the Project
+
+After taking my algorithm class at university, I developed a deep interest in the subject. While studying, I encountered challenges such as:
+- Trouble finding practical applications for algorithms.
+- Difficulty understanding more complex algorithms.
+- Wasting time searching for the best ways to implement algorithms.
+
+This repository aims to resolve these issues by providing:
+- Practical implementations of algorithms.
+- Simplified explanations and visualizations for better understanding.
+- A centralized, community-driven hub for algorithmic knowledge.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+---
+
+## Features
+
+- Code implementations in **Python** - would love to expand this bullet point!
+- Regular updates and contributions from the community *(join us!)*.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+---
+
+## How to Contribute
+
+Your contributions are greatly appreciated! Here’s how you can help:
+
+1. Fork the repository.
+2. Create your feature branch: `git checkout -b feature/AmazingFeature`.
+3. Commit your changes: `git commit -m 'Add some AmazingFeature'`.
+4. Push to the branch: `git push origin feature/AmazingFeature`.
+5. Open a pull request.
+
+Have an idea for a new feature? Create an issue and let’s discuss it. Don’t forget to give the project a star—thank you!
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+---
+
+## License
+
+This project is licensed under the MIT License, which allows for free use, modification, and distribution. See the [LICENSE](LICENSE) file for details.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+---
+
+## Contributors
+
+<div align="center">
+  Waiting for you! 😊
+
+  <sub>Special thanks to <a href="https://github.com/othneildrew/Best-README-Template">@othneildrew</a> for a helpful README template!</sub>
+</div>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+---
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Created%20by%20Ruthietta-April%202024-216ed6?style=for-the-badge" />
 </div>
